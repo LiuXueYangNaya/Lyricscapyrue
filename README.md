@@ -1,3 +1,5 @@
+#探索测试阶段，开发缓慢勿喷qwq
+
 # Taskbar-Lyrics
 
 BetterNCM插件，在任务栏上嵌入歌词，目前仅建议Windows 11
